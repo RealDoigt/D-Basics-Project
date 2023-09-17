@@ -15,7 +15,7 @@
 |i/o package with async support||No|
 
 # Projects that need more attention:
-Some active projects that handle flawed aspects of the ecosystem already exist.
+Some active projects that handle flawed aspects of the ecosystem already exist and just need to be known. See [Awesome-D](https://github.com/dlang-community/awesome-d) for a broader list.
 |Project|Description|Also Needs More Contributors?|
 |-|-|-|
 |Arsd|An exhaustive framework which covers several different usecases: Terminal, Web Development, Databases, Scripting, Email, Desktop Development, etc.|unknown|  
